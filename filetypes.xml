@@ -1,17 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.*" type="Ini" />
-      <mapping pattern=".env" type="Ini" />
-      <mapping ext="env" type="Ini" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <removed_mapping ext="env" approved="true" type="Ini" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="Ini" />
       <removed_mapping pattern="*?.env.?" approved="true" type="Ini" />
     </extensionMap>
   </component>
