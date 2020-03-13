@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>script</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+    </injection>
+    <injection language="VueJS" injector-id="xml">
+      <display-name>vue-script</display-name>
+      <single-file />
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+    </injection>
+  </component>
+</application>
