@@ -1,0 +1,16 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="GCR" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker Local" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
