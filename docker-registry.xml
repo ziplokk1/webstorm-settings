@@ -5,5 +5,10 @@
       <option name="name" value="Docker Registry" />
       <option name="username" value="ziplokk" />
     </DockerRegistry>
+    <DockerRegistry email="" password="">
+      <option name="address" value="gcr.io" />
+      <option name="name" value="GCR" />
+      <option name="username" value="" />
+    </DockerRegistry>
   </component>
 </application>
