@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal ./" />
+  </component>
+</application>
