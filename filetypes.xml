@@ -13,9 +13,9 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Ini" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
+      <removed_mapping pattern="*?.env.?" approved="true" type="Ini" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Ini" />
-      <removed_mapping pattern="*?.env.?" approved="true" type="Ini" />
     </extensionMap>
   </component>
 </application>
