@@ -19,7 +19,39 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/material-ui" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-calc" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-custom-properties" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-import" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-modules-local-by-default" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-modules-resolve-imports" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/postcss-modules-scope" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/sasl-scram-sha-1" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sass" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
