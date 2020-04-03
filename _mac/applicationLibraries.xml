@@ -19,6 +19,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/material-design-lite" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/material-ui" type="javaScript">
       <CLASSES />
       <SOURCES />

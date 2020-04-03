@@ -1,0 +1,39 @@
+<scheme name="_@user_darcula_sombre" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-04-03T05:11:39</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.1.4.0.0</property>
+    <property name="modified">2020-04-03T05:29:16</property>
+    <property name="originalScheme">darcula_sombre</property>
+  </metaInfo>
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="36383a" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
