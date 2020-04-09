@@ -4,13 +4,14 @@
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <mapping pattern=".zshrc" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.*" type="Ini" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Ini" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <removed_mapping pattern="*?.env.?" approved="true" type="Ini" />
